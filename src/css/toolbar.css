@@ -78,7 +78,7 @@
 }
 
 [data-theme="light"] {
-    --jme-home-o-icon: url(../img/home.svg);
+    --jme-home-icon: url(../img/home.svg);
     --jme-home-o-icon: url(../img/home-o.svg);
     --jme-menu-icon: url(../img/menu.svg);
     --jme-back-icon: url(../img/back.svg);
